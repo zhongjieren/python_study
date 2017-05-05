@@ -1,0 +1,13 @@
+http://www.cnblogs.com/qiongmiaoer/tag/python/
+http://blog.csdn.net/wklken/article/details/7234157
+http://www.cnblogs.com/qiongmiaoer/archive/2013/09/30/3346984.html
+
+http://www.cnblogs.com/qiongmiaoer/p/3347001.html
+
+
+http://blog.chinaunix.net/uid-23500957-id-3838221.html
+
+
+crawlall.py --自定义Scrapy命令通过cronjob一次性运行所有的Spiders
+news_Sina.py--新浪财经板块新闻--当日新闻链接
+ 
